@@ -1,0 +1,3 @@
+[submodule "Embedded_Develop/use_vim_as_ide"]
+	path = Embedded_Develop/use_vim_as_ide
+	url = git@github.com:cposture/use_vim_as_ide.git
