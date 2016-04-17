@@ -1,3 +1,6 @@
 [submodule "Embedded_Develop/use_vim_as_ide"]
 	path = Embedded_Develop/use_vim_as_ide
 	url = git@github.com:cposture/use_vim_as_ide.git
+[submodule "Embedded_Develop/linux_kernel_driver"]
+	path = Embedded_Develop/linux_kernel_driver
+	url = git@github.com:cposture/linux_kernel_driver.git
