@@ -3,18 +3,18 @@ QG工作室资源共享合集，欢迎工作室成员Update
 
 ## 软件
 ### office办公软件
-- office2016：[https://yunpan.cn/cLsiEQamxD2xv](https://yunpan.cn/cLsiEQamxD2xv)  访问密码 1814
+- office2016：
 - office 2013专业加强with sp1版，64位：[http://yunpan.cn/cgBktH3EcRVrh](http://yunpan.cn/cgBktH3EcRVrh)  提取码 5849
-- office 2013：[http://yunpan.cn/QCxnUuquItVxW](http://yunpan.cn/QCxnUuquItVxW)  提取码 c6bc
-- office 2013破解包：[http://yunpan.cn/QCTWSPYnpELZt](http://yunpan.cn/QCTWSPYnpELZt)  提取码 5b10
-- office 2010：[http://yunpan.cn/QCu5HGZVi9BD2](http://yunpan.cn/QCu5HGZVi9BD2)  提取码 208b
+- office 2013：[http://url.cn/461kMz2](http://url.cn/461kMz2)
+- office 2013破解包：[http://url.cn/46myOoJ](http://url.cn/46myOoJ)
+- office 2010：[http://url.cn/46myNxn](http://url.cn/46myNxn)
 - office tab（一款office插件，实现多文件窗口查看）：[http://yunpan.cn/QCu5uhvQPhY9x](http://yunpan.cn/QCu5uhvQPhY9x)  提取码 e270
 - PowerPointViewer：[http://yunpan.cn/cwer7dWnep3zf](http://yunpan.cn/cwer7dWnep3zf)  访问密码 4e75
 
 ### UI设计
-- Adobe Photoshop CC 2015（Ps）：[https://yunpan.cn/cuyqKUsjSNKmt](https://yunpan.cn/cuyqKUsjSNKmt)  访问密码 a394
-- Adobe Photoshop CC 2014（Ps）：[http://yunpan.cn/cgBkaCAaiWISR](http://yunpan.cn/cgBkaCAaiWISR)  提取码 7730
-- Adobe Photoshop CC（Ps）：[http://yunpan.cn/QC9e2AYSU2vRY](http://yunpan.cn/QC9e2AYSU2vRY)  提取码 11e0
+- Adobe Photoshop CC 2015（Ps）：[http://url.cn/46myQBg](http://url.cn/46myQBg)
+- Adobe Photoshop CC 2014（Ps）：[http://url.cn/46mvM7u](http://url.cn/46mvM7u)
+- Adobe Photoshop CC（Ps）：http://url.cn/46myS19](http://url.cn/46myS19)
 - Adobe After Effects CC（Ae）：[http://yunpan.cn/QC9erG4CwEmk8](http://yunpan.cn/QC9erG4CwEmk8)  提取码 b99b
 - Adobe Audition CC（Au）：[http://yunpan.cn/QC9eRb86tnBUq](http://yunpan.cn/QC9eRb86tnBUq)  提取码 b652
 - Adobe Dreamweaver CC（Dw）：[http://yunpan.cn/QC9eBvWtIfb4i](http://yunpan.cn/QC9eBvWtIfb4i)  提取码 4927
