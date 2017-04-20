@@ -8,18 +8,18 @@ QG工作室资源共享合集，欢迎工作室成员Update
 - office 2010：[http://url.cn/46myNxn](http://url.cn/46myNxn)
 
 ### UI设计
-- Adobe Photoshop CC 2015（Ps）：[http://url.cn/46myQBg](http://url.cn/46myQBg)
-- Adobe Photoshop CC 2014（Ps）：[http://url.cn/46mvM7u](http://url.cn/46mvM7u)
-- Adobe Photoshop CC（Ps）：http://url.cn/46myS19](http://url.cn/46myS19)
-- Adobe After Effects CC（Ae）：[https://share.weiyun.com/6582c890f4e484232ca26f7785d732d2)
-- Adobe Audition CC（Au）：[https://share.weiyun.com/610b1248cf6bae0e45af99e62a5b9dd5)
-- Adobe Dreamweaver CC（Dw）：[https://share.weiyun.com/d0f6f9f2f8368c7e459e971cf417a045)
-- Adobe FlashProfessional CC（Fl）：[https://share.weiyun.com/b28393a8cb889b9b234587d690accf8c)
-- Adobe Illustrator CC（Ai）：[https://share.weiyun.com/cf7d1ce5c23cfc7fe3e3e7090361dc37)
-- Adobe Premiere Pro CC（Pr）：[https://share.weiyun.com/fe27256361c67d9869d5c6ff056c2be5)
-- Adobe Bridge CC（Br）：[https://share.weiyun.com/b010e8ce7abe3ad879f623ea675c9c5b)
-- Adobe CC系列_破解文件：[https://share.weiyun.com/c30d9a81bfcb097aea0e12efe76c5a47)
-- Adobe Acrobat XI Pro破解补丁：[https://share.weiyun.com/1b038ef867ca0875a9be8d860f2de1f5)
+- Adobe Photoshop CC 2015（Ps）：http://url.cn/46myQBg](http://url.cn/46myQBg
+- Adobe Photoshop CC 2014（Ps）：http://url.cn/46mvM7u](http://url.cn/46mvM7u
+- Adobe Photoshop CC（Ps）：http://url.cn/46myS19](http://url.cn/46myS19
+- Adobe After Effects CC（Ae）：https://share.weiyun.com/6582c890f4e484232ca26f7785d732d2
+- Adobe Audition CC（Au）：https://share.weiyun.com/610b1248cf6bae0e45af99e62a5b9dd5
+- Adobe Dreamweaver CC（Dw）：https://share.weiyun.com/d0f6f9f2f8368c7e459e971cf417a045
+- Adobe FlashProfessional CC（Fl）：https://share.weiyun.com/b28393a8cb889b9b234587d690accf8c
+- Adobe Illustrator CC（Ai）：https://share.weiyun.com/cf7d1ce5c23cfc7fe3e3e7090361dc37
+- Adobe Premiere Pro CC（Pr）：https://share.weiyun.com/fe27256361c67d9869d5c6ff056c2be5
+- Adobe Bridge CC（Br）：https://share.weiyun.com/b010e8ce7abe3ad879f623ea675c9c5b
+- Adobe CC系列_破解文件：https://share.weiyun.com/c30d9a81bfcb097aea0e12efe76c5a47
+- Adobe Acrobat XI Pro破解补丁：https://share.weiyun.com/1b038ef867ca0875a9be8d860f2de1f5
 
 ### C、C#、C++相关
 - DEV-C++（C或C++开发，占用小，方便）：[http://yunpan.cn/QCu59wPdLCmrb](http://yunpan.cn/QCu59wPdLCmrb)  提取码 e22d
