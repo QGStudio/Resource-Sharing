@@ -3,34 +3,23 @@ QG工作室资源共享合集，欢迎工作室成员Update
 
 ## 软件
 ### office办公软件
-- office2016：
-- office 2013专业加强with sp1版，64位：[http://yunpan.cn/cgBktH3EcRVrh](http://yunpan.cn/cgBktH3EcRVrh)  提取码 5849
 - office 2013：[http://url.cn/461kMz2](http://url.cn/461kMz2)
 - office 2013破解包：[http://url.cn/46myOoJ](http://url.cn/46myOoJ)
 - office 2010：[http://url.cn/46myNxn](http://url.cn/46myNxn)
-- office tab（一款office插件，实现多文件窗口查看）：[http://yunpan.cn/QCu5uhvQPhY9x](http://yunpan.cn/QCu5uhvQPhY9x)  提取码 e270
-- PowerPointViewer：[http://yunpan.cn/cwer7dWnep3zf](http://yunpan.cn/cwer7dWnep3zf)  访问密码 4e75
 
 ### UI设计
 - Adobe Photoshop CC 2015（Ps）：[http://url.cn/46myQBg](http://url.cn/46myQBg)
 - Adobe Photoshop CC 2014（Ps）：[http://url.cn/46mvM7u](http://url.cn/46mvM7u)
 - Adobe Photoshop CC（Ps）：http://url.cn/46myS19](http://url.cn/46myS19)
-- Adobe After Effects CC（Ae）：[http://yunpan.cn/QC9erG4CwEmk8](http://yunpan.cn/QC9erG4CwEmk8)  提取码 b99b
-- Adobe Audition CC（Au）：[http://yunpan.cn/QC9eRb86tnBUq](http://yunpan.cn/QC9eRb86tnBUq)  提取码 b652
-- Adobe Dreamweaver CC（Dw）：[http://yunpan.cn/QC9eBvWtIfb4i](http://yunpan.cn/QC9eBvWtIfb4i)  提取码 4927
-- Adobe FlashProfessional CC（Fl）：[http://yunpan.cn/QC9e6K3ZegG64](http://yunpan.cn/QC9e6K3ZegG64)  提取码 e1b4
-- Adobe Illustrator CC（Ai）：[http://yunpan.cn/QC9e6zdbAMKPH](http://yunpan.cn/QC9e6zdbAMKPH)  提取码 6767
-- Adobe Premiere Pro CC（Pr）：[http://yunpan.cn/QC9ekf4Dctd5f](http://yunpan.cn/QC9ekf4Dctd5f)  提取码 4878
-- Adobe Bridge CC（Br）：[http://yunpan.cn/cgBvPPzsSjAus](http://yunpan.cn/cgBvPPzsSjAus)  提取码 03f3
-- Adobe CC系列_破解文件：[http://yunpan.cn/QC9eub8WY8QY9](http://yunpan.cn/QC9eub8WY8QY9)  提取码 5908
-- Adobe Flash Professional CS6：[http://yunpan.cn/QC9tdreVtLbGi](http://yunpan.cn/QC9tdreVtLbGi)  提取码 4d61
-- Adobe Flash Professional CS6破解文件：[http://yunpan.cn/QC9tmjn34IzYJ](http://yunpan.cn/QC9tmjn34IzYJ)  提取码 6231
-- Adobe Dreamweaver CS6：[http://yunpan.cn/QC9tHC7p4cZBs](http://yunpan.cn/QC9tHC7p4cZBs)  提取码 34b3
-- Adobe Dreamweaver CS6破解包：[http://yunpan.cn/QC9tcxxziVFtz](http://yunpan.cn/QC9tcxxziVFtz)  提取码 ffcd
-- Adobe CS6系列_破解文件：[http://yunpan.cn/QC9trgwGDSSka](http://yunpan.cn/QC9trgwGDSSka)  提取码 c8c6
-- Adobe Acrobat XI Pro破解补丁：[http://yunpan.cn/cgB8BKUWBsAkR](http://yunpan.cn/cgB8BKUWBsAkR)  提取码 62a7
-- CreativeCloud（用于下载Adobe系列所有最新软件）：[http://yunpan.cn/QCu5vagLBuRgm](http://yunpan.cn/QCu5vagLBuRgm)  提取码 7cd9
-- 会声会影 X5简体中文版：[http://yunpan.cn/QCxbfJcYF9UYM](http://yunpan.cn/QCxbfJcYF9UYM)  提取码 953a
+- Adobe After Effects CC（Ae）：[https://share.weiyun.com/6582c890f4e484232ca26f7785d732d2)
+- Adobe Audition CC（Au）：[https://share.weiyun.com/610b1248cf6bae0e45af99e62a5b9dd5)
+- Adobe Dreamweaver CC（Dw）：[https://share.weiyun.com/d0f6f9f2f8368c7e459e971cf417a045)
+- Adobe FlashProfessional CC（Fl）：[https://share.weiyun.com/b28393a8cb889b9b234587d690accf8c)
+- Adobe Illustrator CC（Ai）：[https://share.weiyun.com/cf7d1ce5c23cfc7fe3e3e7090361dc37)
+- Adobe Premiere Pro CC（Pr）：[https://share.weiyun.com/fe27256361c67d9869d5c6ff056c2be5)
+- Adobe Bridge CC（Br）：[https://share.weiyun.com/b010e8ce7abe3ad879f623ea675c9c5b)
+- Adobe CC系列_破解文件：[https://share.weiyun.com/c30d9a81bfcb097aea0e12efe76c5a47)
+- Adobe Acrobat XI Pro破解补丁：[https://share.weiyun.com/1b038ef867ca0875a9be8d860f2de1f5)
 
 ### C、C#、C++相关
 - DEV-C++（C或C++开发，占用小，方便）：[http://yunpan.cn/QCu59wPdLCmrb](http://yunpan.cn/QCu59wPdLCmrb)  提取码 e22d
